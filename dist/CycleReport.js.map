@@ -1,0 +1,1 @@
+{"version":3,"file":"CycleReport.js","sourceRoot":"","sources":["../src/CycleReport.ts"],"names":[],"mappings":"AAEA,MAAM,OAAO,eAAe;IAEP,OAAO,GAAW,EAAE,CAAC;IACtC,YAAmB,EAAW;QAC9B,IAAI,CAAC,OAAO,GAAG,EAAE,CAAC;IAClB,CAAC;IACD,QAAQ;QACJ,OAAO,IAAI,CAAC,OAAO,CAAC;IACxB,CAAC;CACJ"}
